@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.517a2fd2.css",
+    "main.js": "/static/js/main.f97c25fd.js",
+    "static/media/goodguys.webp": "/static/media/goodguys.1688051a94975c88612c.webp",
+    "static/media/mn.webp": "/static/media/mn.36b981d540c71cd4ae02.webp",
+    "static/media/nba.webp": "/static/media/nba.c796f4e5b947fb9f368e.webp",
+    "static/media/clotta.webp": "/static/media/clotta.0fdd39f22e240739e61e.webp",
+    "static/media/gm.webp": "/static/media/gm.4ac02ed053634891896f.webp",
+    "static/media/ad.webp": "/static/media/ad.7d3317faae4a44ac66fe.webp",
+    "static/media/baldie.webp": "/static/media/baldie.6904be6800ce2e494539.webp",
+    "static/media/csempione.webp": "/static/media/csempione.be1e4f971312ef37a1b1.webp",
+    "static/media/rm.webp": "/static/media/rm.5b522f5163ef74d3f092.webp",
+    "static/media/conchi.webp": "/static/media/conchi.7a918db0ca1d5e118dfa.webp",
+    "static/media/cc.webp": "/static/media/cc.ccd689ecce06aceb6db2.webp",
+    "static/media/google.webp": "/static/media/google.0394af0ee5e02654f8ef.webp",
+    "static/media/amazon.webp": "/static/media/amazon.1e600ff040a71c3d50e6.webp",
+    "static/media/6xKtdSZaM9iE8KbpRA_hK1QNYuDyPw.woff2": "/static/media/6xKtdSZaM9iE8KbpRA_hK1QNYuDyPw.1e2a5b1ddb45b9527814.woff2",
+    "static/media/6xKtdSZaM9iE8KbpRA_hJVQNYuDyP7bh.woff2": "/static/media/6xKtdSZaM9iE8KbpRA_hJVQNYuDyP7bh.bf2b08a31fbeb4c28127.woff2",
+    "static/media/ll.webp": "/static/media/ll.c7ea892d9c2967a12795.webp",
+    "static/media/stirati.webp": "/static/media/stirati.6ea23f5d219d6b1f40fa.webp",
+    "static/media/fede.webp": "/static/media/fede.72ac432fcc6da4898e06.webp",
+    "static/media/cringe.webp": "/static/media/cringe.d5742559c155fa469cea.webp",
+    "static/media/6xKtdSZaM9iE8KbpRA_hJFQNYuDyP7bh.woff2": "/static/media/6xKtdSZaM9iE8KbpRA_hJFQNYuDyP7bh.a84ed5bf7f4671f76ace.woff2",
+    "static/media/spotify.webp": "/static/media/spotify.75c68758a8710e5c2b76.webp",
+    "static/media/netflix.webp": "/static/media/netflix.8e8ebf0076e5d3a9d110.webp",
+    "static/media/pornhub.webp": "/static/media/pornhub.c3a769f40efa8f82902c.webp",
+    "static/media/up.webp": "/static/media/up.f365c9bc3ca5bc641899.webp",
+    "static/media/poison.webp": "/static/media/poison.b4a2fd8de06dd95f6f1a.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.517a2fd2.css.map": "/static/css/main.517a2fd2.css.map",
+    "main.f97c25fd.js.map": "/static/js/main.f97c25fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.517a2fd2.css",
+    "static/js/main.f97c25fd.js"
+  ]
+}
